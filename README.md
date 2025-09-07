@@ -49,3 +49,24 @@ Quantitatively evaluates the effectiveness of beamforming using:
 - Comparison of scores before and after beamforming
 
 ---
+
+## 📄 Citation & Preprint  
+
+This work is described in the following preprint:  
+
+**Beamforming-LLM: What, Where and When Did I Miss?**  
+Vishal Choudhari  
+*arXiv preprint, 2025.*  
+[![arXiv](https://img.shields.io/badge/arXiv-2509.xxxxx-b31b1b.svg)](https://arxiv.org/abs/2509.xxxxx)
+
+NOTE: Exact DOI to be shared soon.
+
+If you use or build on this work, please cite it as:  
+
+```bibtex
+@article{choudhari2025beamformingllm,
+  title     = {Beamforming-LLM: Semantic Recall of Missed Conversations},
+  author    = {Choudhari, Vishal},
+  journal   = {arXiv preprint arXiv:2509.xxxxx},
+  year      = {2025}
+}
