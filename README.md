@@ -1,4 +1,4 @@
-# Beamforming-LLM: Semantic Recall of Missed Conversations
+# Beamforming-LLM: Semantic Spatial Recall of Missed Conversations
 
 **Beamforming-LLM** is a research prototype that enables users to semantically recall conversations they may have missed in multi-speaker environments. It combines spatial audio processing using beamforming with Whisper ASR and Retrieval-Augmented Generation (RAG) via large language models (LLMs). Users can query the system in natural language to understand what was said in overlapping conversations.
 
