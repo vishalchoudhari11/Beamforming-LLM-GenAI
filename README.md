@@ -57,7 +57,7 @@ This work is described in the following preprint:
 **Beamforming-LLM: What, Where and When Did I Miss?**  
 Vishal Choudhari  
 *arXiv preprint, 2025.*  
-[![arXiv](https://img.shields.io/badge/arXiv-2509.xxxxx-b31b1b.svg)](https://arxiv.org/abs/2509.06221)
+[![arXiv](https://img.shields.io/badge/arXiv-2509.06221-b31b1b.svg)](https://arxiv.org/abs/2509.06221)
 
 If you use or build on this work, please cite it as:  
 
