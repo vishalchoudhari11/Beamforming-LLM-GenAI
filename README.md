@@ -14,7 +14,7 @@ This enables intuitive memory-like re-engagement with multi-party conversations,
 
 ---
 
-## 🧠 Project Overview
+## 🧠 Paper Overview
 
 In real-world social or professional settings—such as dinner tables, meetings, or poster sessions—we often focus on one conversation and miss others happening simultaneously. Beamforming-LLM captures and separates these spatial conversations and enables natural language recall of what was missed.
 
